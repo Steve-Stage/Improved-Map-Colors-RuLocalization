@@ -4,7 +4,7 @@
   "improvedmapcolors.configuration.color_file": "Файл Цветов",
   "improvedmapcolors.configuration.use_file.tooltip": "Использовать список цветов из файла CSV, заданного ниже",
   "improvedmapcolors.configuration.title": "Настройки Улучшенных Цветов Карт",
-  "improvedmapcolors.configuration.color_file.tooltip": "Путь к файлу CSV со списком цветов вида: |цвет_в_hex|[опциональный_id]|\nЕсли ID не был указан, будет использован номер строки в файле",
+  "improvedmapcolors.configuration.color_file.tooltip": "Путь к файлу CSV со списком цветов вида: |цвет_в_hex|[опциональный_id]|\nЕсли ID не был указан, то вместо него будет использован номер строки в файле",
   "improvedmapcolors.configuration.colorlist.tooltip": "Список цветов, заменяющих ванильные цвета карт (по умолчанию используются цвета Gneiss-а)",
   "improvedmapcolors.configuration.section.improvedmapcolors.common.toml": "Настройки Улучшенных Цветов Карт",
   "improvedmapcolors.configuration.section.improvedmapcolors.common.toml.title": "Настройки Улучшенных Цветов Карт",
