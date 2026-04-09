@@ -10,7 +10,7 @@
   "improvedmapcolors.configuration.section.improvedmapcolors.common.toml.title": "Настройки Улучшенных Цветов Карт",
   "improvedmapcolors.configuration.colorlist.button": "Редактировать",
   "improvedmapcolors.configuration.use_blockstate_file": "Использовать Файл",
-  "improvedmapcolors.configuration.blockstate_file": "Файл состояний блоков",
+  "improvedmapcolors.configuration.blockstate_file": "Файл Состояний Блоков",
   "improvedmapcolors.configuration.state_list": "Список Цветов Состояний Блоков",
   "improvedmapcolors.configuration.state_list.button": "Редактировать",
   "improvedmapcolors.configuration.state_list.tooltip": "Список наборов вида Состояние_Блока:ID_Цвета, на которые будут заменены ванильные состояния блоков (по умолчанию будут использованы наборы Gneiss-а, если это возможно)",
